@@ -1,1 +1,1 @@
-A qiuck demo on how to learn git on the commend line
+A qiuck demo on how to learn git on the commend line.
